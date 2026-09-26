@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.whoissif.twa",
+      "sha256_cert_fingerprints": [
+        "00:38:25:53:DD:C6:46:FF:56:2D:05:48:FF:9F:EC:9F:C2:29:B4:9C:0D:B4:B9:33:C8:96:5C:D3:4A:CA:2F:48"
+      ]
+    }
+  }
+]
